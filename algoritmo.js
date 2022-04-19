@@ -19,8 +19,8 @@ var respuesta = prompt("Ingrese su nombre", ["nombre"]);//escribe mediante el na
 console.log( respuesta );// escribe algo mediante la consola
 
 document.write(`
-    <h4>Nombre: </4>
-    <h4>${ respuesta }</4>   
+    <h4>Nombre: </h4>
+    <h4>${ respuesta }</h4>   
 `);
 
 
